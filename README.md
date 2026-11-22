@@ -3,4 +3,4 @@ Dans ce projet on mettra en place tout le back end correspondant à notre porte 
 
 
 ## contributeurs
-- [jsylvain700-oss](htpps://github.com/jsylvain706-oss) -Back-end portefeuille electronique
+- [jsylvain706-oss](htpps://github.com/jsylvain706-oss) -Back-end portefeuille electronique
