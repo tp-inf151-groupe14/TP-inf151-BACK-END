@@ -4,3 +4,4 @@ Dans ce projet on mettra en place tout le back end correspondant à notre porte 
 
 ## contributeurs
 - [jsylvain706-oss](htpps://github.com/jsylvain706-oss) -Back-end portefeuille electronique
+- [bengonoreineesther-crypto](https://github.com/bengonoreineesther-crypto) - Back-end portefeuille electronique
